@@ -1,5 +1,5 @@
   FROM tomcat:9.0
-  LABEL maintainer="emailalumno@iespuerto.es"
+  LABEL maintainer="daniel@iespuerto.es"
 
   ARG WAR_FILE=target/*.war
 
